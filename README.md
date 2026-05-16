@@ -47,7 +47,7 @@
 
 - [koi](https://codeberg.org/koibtw)
 - [robin](https://codeberg.org/comfysage)
-- [holly](https://github.com/hollymlem) ([catppuccin-adwaita](https://github.com/hollymlem/catppuccin-adwaita))
+- [holly](https://codeberg.org/aquifolly) ([catppuccin-adwaita](https://github.com/aquifolly/catppuccin-adwaita))
 
 <hr>
 
